@@ -40,7 +40,7 @@ And although there are some multiplayer games in the sense of social media or ot
 
 ...and most notably CryptoFights...
 
-Two-player games of skill, especially classic board or tabletop games, is relatively untapped realm for BSV, as far as I know.
+Two-player games of skill, especially classic board or tabletop games, is a relatively untapped realm for BSV, as far as I know.
 
 There are many possibilities for this model, including 
 
