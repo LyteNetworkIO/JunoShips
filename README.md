@@ -50,7 +50,7 @@ There are many possibilities for this model, including
 
 In some situations, a server-client flow makes sense, and in others, two or more clients interacting may be best.
 
-Regardless of the flavor, a reliable Bitcoin-powered gameplay and state recording engine underpins it all.
+Regardless of the flavor, a reliable Bitcoin-powered gameplay and state recording and broadcasting engine underpins it all.
 
 ## Interoperability
 
