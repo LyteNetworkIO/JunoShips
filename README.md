@@ -4,33 +4,25 @@ A peer-to-peer monetized multiplayer online Battleship game
 
 ## Hello, Judges!
 
-Thank you for considering this entry!
+Thank you for considering this entry for the first ever RUN Hackathon!
 
 First things first, connectivity with peers across the web was inconsistent in my test. 
 
 However, I did manage to get the app to run on two different computers side by side. 
 
-Here's a demo:
-
-TODO: Add video demo
+My internet started getting really slow right before the deadline, so I was not able to record a gameplay demo exposing the many bugs and flaws in the game.
 
 It does work through websockets locally. You can test it by opening two browser windows on your computer.
 
-And you can play with a peer, by using two screens and sitting across from each other... 
+And you can play with a peer, but you may want to have a chat open as well to test whether you see each other connecting or disconnecting with a little flicker in the player info at the top of the screen. 
 
-...or by placing a visual barrier such as a piece of cardboard between two web browser tabs on one screen! :D
+If you refresh and disconnect, you get a full refund of the 1 MILLI you pay to play.
 
-At first I thought it was unfortunate that my newness to working with websockets or whatever the connectivity issue is, prohibited the unleashing of gameplay on the World Wide Web immediately following the hackathon.
+At first I thought it was unfortunate that the game still has bugs, such as invalid tx hashes being emitted from serverside bsv txs, janky back-and-forth gameplay, only 2 server slots (so to scale I'd deploy multiple servers. 
 
-But then I realized that it would be irresponsible of me to release Bitcoinships to the public without a security audit, or at least a code review by someone experienced with websockets and multiplayer JavaScript games.
+Anyway, it's up at https://bitcoinships.herokuapp.com/
 
-Because there are 5 judges, I created 5 separate deployments for you to test the gameplay while I work out the above-mentioned WWW connection issues. 
-
-- for Brenton: 
-- for Joshua:
-- for Jack:
-- for Mystery Judge #1:
-- for Mystery Judge #2:
+Enjoy!
 
 Here are my thoughts on how Bitcoinships measures up to the evaluation criteria:
 
@@ -62,14 +54,10 @@ If what's missing is peer-to-peer tabletop games monetized online...
 
 Then what's different about this version than any other game, that makes my version of Battleships so original?
 
-**Well, I've got dark mode!
+## Interoperability
 
-TODO: Screen shot of dark mode
+Interoperates with RelayX, MoneyButton, RUN, and could interoperate with more wallets if I replace TwetchPay.
 
-Another creative thing I did while testing is that you'll notice if you disconnect from the server by refreshing the page, you automatically get refunded in your Money Button or RelayX wallet.
+I'm out of time, gotta stop here.
 
-If the game looks promising to the hackathon judges, I'll devote resources to making the game persist its state using cookies and local storage once I figure out the websoc. 
-
-Frankly part of 
-
-
+THANK YOU!!!
