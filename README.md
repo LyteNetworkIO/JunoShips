@@ -20,6 +20,8 @@ If you refresh and disconnect, you get a full refund of the 1 MILLI you pay to p
 
 At first I thought it was unfortunate that the game still has bugs, such as invalid tx hashes being emitted from serverside bsv txs, janky back-and-forth gameplay, only 2 server slots (so to scale I'd deploy multiple servers. 
 
+But I now realize it would be irresponsible to release such a high-value game as this to the public without proper security auditing and/or testing.
+
 Anyway, it's up at https://bitcoinships.herokuapp.com/
 
 Enjoy!
