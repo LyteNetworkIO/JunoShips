@@ -44,17 +44,13 @@ Two-player games of skill, especially classic board or tabletop games, is a rela
 
 There are many possibilities for this model, including 
 
--literally sending players the game jig, wallet permitting
--allowing players to create their own "partially signed" game contract for another peer to join
--tournament play, leaderboards and more.
+- literally sending players the game jig, wallet permitting
+- allowing players to create their own "partially signed" game contract for another peer to join
+- tournament play, leaderboards and more.
 
-In some situations, a server-client flow makes sense, and in others, two or more clients interacting will be best.
+In some situations, a server-client flow makes sense, and in others, two or more clients interacting may be best.
 
 Regardless of the flavor, a reliable Bitcoin-powered gameplay and state recording engine underpins it all.
-
-If what's missing is peer-to-peer tabletop games monetized online...
-
-Then what's different about this version than any other game, that makes my version of Battleships so original?
 
 ## Interoperability
 
