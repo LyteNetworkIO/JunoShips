@@ -2,7 +2,7 @@
 
 Monetized game of Battleships on the blockchain.
 
-Credit to Ania Kubow, codeSTACKr, and Web Dev Simplified for [https://github.com/kubowania/battleships](their Battleships game) from which Junoships is derived.
+Credit to Ania Kubow, codeSTACKr, and Web Dev Simplified for [their Battleships game](https://github.com/kubowania/battleships) from which Junoships is derived.
 
 This game's debut was on a "big block" Bitcoin fork.
 
