@@ -9,4 +9,4 @@ Summer 2022 roadmap:
 * Game logic runs on BSV & IPv6
 * Deploy on Akash Network
 * Explore IBC / cross-chain interoperability 
-* Monetize & scale up
+* Create and begin to implement monetizion, optimization, and scaling roadmap
