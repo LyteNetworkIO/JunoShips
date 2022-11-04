@@ -21,6 +21,7 @@
   "dependencies": {
     "bsv": "^1.5.6",
     "express": "^4.17.1",
+    "headbreaker": "^1.2.0",
     "node-fetch": "^2.6.1",
     "run-sdk": "^0.6.24",
     "socket.io": "^2.3.0"
